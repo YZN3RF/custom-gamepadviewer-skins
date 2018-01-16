@@ -202,17 +202,18 @@ the CSS inline. */
     left: 210px;
 }
 .custom .stick{
-    background: url('http://gamepadviewer.com/xbox-assets/stick.svgz');
-    background-position: -85px 0;
+    background: url(http://gamepadviewer.com/xbox-assets/stick.svgz);
+    background-position: -107px 0;
+    background-size: cover;
     position: absolute;
     height:105px;
-    width: 105px;
+    width: 107px;
 }
 .custom .stick.pressed.left{
-    background-position-x: -106px;
+    background-position-x: 0px;
 }
 .custom .stick.pressed.right{
-    background-position-x: -211px;
+    background-position-x: 0px;
 }
 .custom .stick.left{
     top: 0;
