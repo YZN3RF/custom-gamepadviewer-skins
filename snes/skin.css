@@ -198,8 +198,8 @@ the CSS inline. */
     position: absolute;
     width: 364px;
     height: 105px;
-    top: 328px;
-    left: 210px;
+    top: 323px;
+    left: 294px;
 }
 .custom .stick{
     background: url(http://gamepadviewer.com/xbox-assets/stick.svgz);
@@ -221,7 +221,7 @@ the CSS inline. */
 }
 .custom .stick.right{
     top: calc(100% - 105px);
-    left: calc(100% - 105px);
+    left: calc(100% - 87px);
 }
 /* Dpad possitioning and sizing */
 .custom .dpad{
