@@ -55,13 +55,37 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 .custom.disconnected div {
     display: none;
 }
-.custom .triggers{ /* The triggers are housed inside a div, so this sizes the div properly and positions it */
+
+/* CLR browser maps SELECT and START to the triggers.
+ * So the following is for the START and SELECT and not
+ * for the triggers.*/
+.custom .triggers{
+    position: absolute;
+    width: 176px;
+    height: 62px;
+    top: 214px;
+    left: 358px;
+}
+.custom .trigger{
+    width: 71.5px;
+    height: 61.5px;
+    background: url(drawing/drawing.svg);
+    background-position: -1177.5px 0px;
+}
+.custom .trigger.left{ 
+    float: left;
+}
+.custom .trigger.right{
+    float: right;
+}
+
+.custom .bumpers{
     width: 759px;
     height: 34px;
     position: absolute;
     left: 104px;
 }
-.custom .trigger{/* These are the actual triggers themselves */
+.custom .bumper{
     width: 211px;
     height: 34px;
     background: url(drawing/drawing.svg); 
@@ -69,45 +93,17 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
     background-repeat: no-repeat;
     opacity: 0;
 }
-.custom .trigger.left{ 
+.custom .bumper.pressed{
+    opacity: 1;
+}
+.custom .bumper.left{
     float: left;
 }
-.custom .trigger.right{
+.custom .bumper.right{
     float: right;
     -webkit-transform: rotateY(180deg);
     transform: rotateY(180deg);
 }
-
-/* The bumpers follow the same methodology as the triggers in terms of
-placement */
-/*.custom .bumper{*/
-    /*width: 89px;*/
-    /*height: 28px;*/
-    /*background: url();*/
-    /*opacity: 0;*/
-/*}*/
-/*.custom .bumpers{*/
-    /*position: absolute;*/
-    /*width: 586px;*/
-    /*height: 28px;*/
-    /*left: 99px;*/
-    /*top: 72px;*/
-/*}*/
-/*.custom .bumper.pressed{ [> The '.pressed' class is used for most buttons to signify they've been pressed <]*/
-    /*opacity: 1;*/
-/*}*/
-/*.custom .bumper.left{*/
-  /*/* Call me lazy or smart, but why should I make 2 bumpers when they're symmetrical*/
-  /*and I can just rotate them in the browser? Also, note that you most likely won't need*/
-  /*to use a browser speficic prefix unless it's something that is indeed browser specific.*/
-  /*NOTE: CLR Browser is basically chrome, so you use '-webkit-' as the browser prefix. */*/
-    /*-webkit-transform: rotateY(180deg);*/
-    /*transform: rotateY(180deg);*/
-    /*float: left;*/
-/*}*/
-/*.custom .bumper.right{*/
-    /*float: right;*/
-/*}*/
 
 /* This bit of code is for the player indicator, which is represented in
 quandrants on the xbox controller. That's note what it's called on the
