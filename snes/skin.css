@@ -221,7 +221,7 @@ the CSS inline. */
 }
 .custom .stick.right{
     top: calc(100% - 105px);
-    left: calc(100% - 87px);
+    left: calc(100% - 74px);
 }
 /* Dpad possitioning and sizing */
 .custom .dpad{
