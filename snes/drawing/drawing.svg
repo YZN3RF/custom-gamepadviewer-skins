@@ -18,17 +18,17 @@
    viewBox="0 0 1588.217 847.041"
    enable-background="new 0 0 1588.217 847.041"
    xml:space="preserve"><metadata
-   id="metadata891"><rdf:RDF><cc:Work
+   id="metadata86"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-   id="defs889" />
+   id="defs84" />
 <sodipodi:namedview
    width="1920px"
    fit-margin-left="0"
    fit-margin-top="0"
    showgrid="false"
-   inkscape:cy="334.76214"
-   inkscape:cx="966.52333"
+   inkscape:cy="416.37052"
+   inkscape:cx="573.50824"
    inkscape:zoom="0.44725269"
    borderopacity="1.0"
    bordercolor="#666666"
@@ -124,50 +124,59 @@
    id="rect6093-8"
    fill="#C4C1BC"
    d="M642.241,806.095l92.394-71.877c20.372-15.849,49.734-12.182,65.583,8.19l0,0   c15.849,20.372,12.182,49.734-8.19,65.583l-92.394,71.877c-20.372,15.849-49.734,12.182-65.583-8.19l0,0   C618.202,851.306,621.87,821.943,642.241,806.095z" />
-	
-		<circle
+		<!--ABXY Buttons START-->
+		<path
    id="path6149"
-   fill="#014DA3"
-   stroke="#1a1c1b"
+   sodipodi:ry="28.928564"
+   sodipodi:rx="28.928564"
+   sodipodi:cy="468.91046"
+   sodipodi:cx="1216.689"
+   sodipodi:type="arc"
+   fill="#C0BCE8"
+   stroke="#1A1C1B"
    stroke-width="0.7851"
-   style="display:inline;fill:#c0bce8;fill-opacity:1"
-   cx="1216.689"
-   cy="468.91046"
-   r="28.928564" />
+   d="   M800.108,771.174c0,20.35-16.497,36.847-36.847,36.847c-20.351,0-36.848-16.497-36.848-36.847c0-20.35,16.497-36.847,36.848-36.847   C783.611,734.327,800.108,750.824,800.108,771.174z" />
 	
-		<circle
+		<path
    id="path6149-3"
-   fill="#00926D"
-   stroke="#1a1c1b"
+   sodipodi:ry="28.928564"
+   sodipodi:rx="28.928564"
+   sodipodi:cy="468.91046"
+   sodipodi:cx="1216.689"
+   sodipodi:type="arc"
+   fill="#C0BCE8"
+   stroke="#1A1C1B"
    stroke-width="0.7851"
-   style="display:inline;fill:#c0bce8;fill-opacity:1"
-   cx="1216.689"
-   cy="468.91046"
-   r="28.928564" />
+   d="   M707.855,842.911c0,20.35-16.497,36.847-36.848,36.847c-20.35,0-36.847-16.497-36.847-36.847c0-20.35,16.497-36.847,36.847-36.847   C691.358,806.064,707.855,822.561,707.855,842.911z" />
 	<path
    id="rect6093-8-7"
    fill="#C4C1BC"
    d="M733.975,876.837l92.394-71.877c20.372-15.849,49.734-12.181,65.583,8.19v0   c15.849,20.372,12.182,49.734-8.19,65.583l-92.394,71.877c-20.372,15.849-49.734,12.182-65.583-8.19l0,0   C709.936,922.048,713.603,892.686,733.975,876.837z" />
 	
-		<circle
+		<path
    id="path6149-1"
-   fill="#E03C4B"
-   stroke="#1a1c1b"
+   sodipodi:ry="28.928564"
+   sodipodi:rx="28.928564"
+   sodipodi:cy="468.91046"
+   sodipodi:cx="1216.689"
+   sodipodi:type="arc"
+   fill="#C0BCE8"
+   stroke="#1A1C1B"
    stroke-width="0.7851"
-   style="display:inline;fill:#c0bce8;fill-opacity:1"
-   cx="1216.689"
-   cy="468.91046"
-   r="28.928564" />
+   d="   M891.842,841.917c0,20.35-16.497,36.847-36.848,36.847c-20.35,0-36.847-16.497-36.847-36.847s16.497-36.847,36.847-36.847   C875.345,805.07,891.842,821.567,891.842,841.917z" />
 	
-		<circle
+		<path
    id="path6149-3-8"
-   fill="#FFBC54"
-   stroke="#1a1c1b"
+   sodipodi:ry="28.928564"
+   sodipodi:rx="28.928564"
+   sodipodi:cy="468.91046"
+   sodipodi:cx="1216.689"
+   sodipodi:type="arc"
+   fill="#C0BCE8"
+   stroke="#1A1C1B"
    stroke-width="0.7851"
-   style="display:inline;fill:#c0bce8;fill-opacity:1"
-   cx="1216.689"
-   cy="468.91046"
-   r="28.928564" />
+   d="   M799.588,913.654c0,20.35-16.496,36.847-36.847,36.847c-20.35,0-36.847-16.497-36.847-36.847s16.497-36.847,36.847-36.847   C783.092,876.807,799.588,893.304,799.588,913.654z" />
+		<!--ABXY Buttons END-->
 	<path
    id="rect6211-4"
    fill="#485053"
@@ -313,7 +322,7 @@
    fill="#ffffff"
    font-family="Arial-BoldMT"
    font-size="72px"
-   id="text870"
+   id="text65"
    style="line-height:0%">DISCONECTED</text>
 	
 		<path
@@ -327,17 +336,19 @@
    fill="#FFFFFF"
    d="M1184.815,662.283l40.667-30.592c6.757-5.083,16.354-3.726,21.438,3.031v0   c5.082,6.757,3.726,16.354-3.031,21.437l-40.667,30.592c-6.757,5.083-16.354,3.726-21.438-3.031v0   C1176.702,676.963,1178.059,667.365,1184.815,662.283z" />
 	
-		<circle
+		<path
    id="path6149-4"
+   sodipodi:ry="28.928564"
+   sodipodi:rx="28.928564"
+   sodipodi:cy="468.91046"
+   sodipodi:cx="1216.689"
+   sodipodi:type="arc"
    opacity="0.99"
-   fill="#ffffff"
-   stroke="#ffffff"
+   fill="#FFFFFF"
+   stroke="#FFFFFF"
    stroke-width="0.7851"
    enable-background="new    "
-   cx="1216.689"
-   cy="468.91046"
-   r="28.928564"
-   style="display:inline" />
+   d="   M1324.202,665.949c0,20.35-16.497,36.847-36.847,36.847s-36.847-16.497-36.847-36.847s16.497-36.847,36.847-36.847   S1324.202,645.599,1324.202,665.949z" />
 	
 		<path
    id="path6000-5-0"
@@ -373,23 +384,23 @@
    cx="620.541"
    cy="346.29"
    r="66.5"
-   id="circle880" />
+   id="circle75" />
 <circle
    fill="#485053"
    cx="620.541"
    cy="345.29"
    r="44.586"
-   id="circle882" />
+   id="circle77" />
 <circle
    fill="#C4C1BC"
    cx="332.005"
    cy="346.552"
    r="66.5"
-   id="circle884" />
+   id="circle79" />
 <circle
    fill="#485053"
    cx="331.005"
    cy="345.552"
    r="44.586"
-   id="circle886" />
+   id="circle81" />
 </svg>
