@@ -151,7 +151,7 @@ start and select buttons. */
 }
 .custom .back.pressed, .custom .start.pressed{
     background: url(drawing/drawing.svg);
-    background-position: -1000px -100px;
+    background-position: 1177.5px 0px;
 }
 .custom .back{
     float: left;
