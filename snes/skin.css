@@ -140,14 +140,14 @@ start and select buttons. */
 .custom .arrows{
     position: absolute;
     width: 176px;
-    height: 62px;
-    top: 180px;
-    left: 348px;
+    height: 31px;
+    top: 196px;
+    left: 342px;
 }
 /* Setting the size and CSS sprite for the start adn select buttons */
 .custom .back, .custom .start{
-    width: 71.5px;
-    height: 61.5px;
+    width: 81.5px;
+    height: 30.5px;
 }
 .custom .back.pressed, .custom .start.pressed{
     background: url(drawing/drawing.svg);
