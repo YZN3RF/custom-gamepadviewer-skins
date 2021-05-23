@@ -139,7 +139,7 @@ NOTE: Player orderin starts at 0, so p0 = Player 1 */
 start and select buttons. */
 .custom .arrows{
     position: absolute;
-    width: 176px;
+    width: 186px;
     height: 31px;
     top: 196px;
     left: 342px;
