@@ -175,7 +175,7 @@ start and select buttons. */
 }
 .custom .button.pressed{
     background: url(drawing/drawing.svg);
-    background-position-x: -1186px;
+    background-position-x: -1588px;
 }
 .custom .a{
     top: 143px;
