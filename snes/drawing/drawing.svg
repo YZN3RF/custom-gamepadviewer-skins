@@ -27,9 +27,9 @@
    fit-margin-left="0"
    fit-margin-top="0"
    showgrid="false"
-   inkscape:cy="282.50133"
-   inkscape:cx="821.17302"
-   inkscape:zoom="0.63251082"
+   inkscape:cy="172.15592"
+   inkscape:cx="609.38056"
+   inkscape:zoom="1.2650216"
    borderopacity="1.0"
    bordercolor="#666666"
    pagecolor="#888888"
@@ -132,7 +132,8 @@
    cx="755.63354"
    cy="762.92303"
    rx="28.928452"
-   ry="28.928564" />
+   ry="28.928564"
+   style="display:inline" />
 	
 		<ellipse
    id="path6149-3"
@@ -142,7 +143,8 @@
    cx="847.63354"
    cy="833.92303"
    rx="28.928452"
-   ry="28.928564" />
+   ry="28.928564"
+   style="display:inline" />
 	
 	
 		<ellipse
@@ -153,17 +155,19 @@
    cx="755.63354"
    cy="905.92303"
    rx="28.928452"
-   ry="28.928564" />
+   ry="28.928564"
+   style="display:inline" />
 	
 		<ellipse
    id="path6149-3-8"
    fill="#c0bce8"
    stroke="#1a1c1b"
    stroke-width="0.785098"
-   cx="663.63354"
-   cy="833.92303"
+   cx="563.63354"
+   cy="733.92303"
    rx="28.928452"
-   ry="28.928564" />
+   ry="28.928564"
+   style="display:inline" />
 		<!--ABXY Buttons END-->
 	<path
    id="rect6211-4"
@@ -348,7 +352,7 @@
    cx="1618.9336"
    cy="657.92303"
    r="28.928564"
-   style="display:none" />
+   style="display:inline" />
 	
 		<path
    id="path6000-5-0"
