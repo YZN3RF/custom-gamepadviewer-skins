@@ -65,7 +65,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
     width: 211px;
     height: 34px;
     background: url(drawing/drawing.svg); 
-    background-position: -967px 0px;
+    background-position: -1000px 0px;
     background-repeat: no-repeat;
     opacity: 0;
 }
@@ -151,7 +151,7 @@ start and select buttons. */
 }
 .custom .back.pressed, .custom .start.pressed{
     background: url(drawing/drawing.svg);
-    background-position: -1177.5px 0px;
+    background-position: -1250px 0px;
 }
 .custom .back{
     float: left;
@@ -175,7 +175,7 @@ start and select buttons. */
 }
 .custom .button.pressed{
     background: url(drawing/drawing.svg);
-    background-position-x: -1588px;
+    background-position-x: -1500px;
 }
 .custom .a{
     top: 143px;
@@ -270,7 +270,7 @@ the CSS inline. */
 }
 .custom .face.pressed{
     background: url(drawing/drawing.svg);
-    background-position-x: -1323px;
+    background-position-x: -1400px;
 }
 /* NOTE: You NEED to set this to exactly half the height of what is listed 
 for '.controller.custom' so when your skin is activated via player selection
